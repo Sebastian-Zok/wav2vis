@@ -195,3 +195,5 @@ cython_debug/
 /data
 /TEST_CLEAN
 /TRAIN_CLEAN
+/data_mel
+/data_original
